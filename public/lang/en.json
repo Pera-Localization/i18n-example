@@ -1,0 +1,22 @@
+{
+  "documentDescription": {
+    "defaultMessage": "Find in-depth information about Next.js features and API.",
+    "description": "A link to the NextJS API Documentation"
+  },
+  "documentTitle": {
+    "defaultMessage": "Docs"
+  },
+  "inputMessage": {
+    "defaultMessage": "Input a number"
+  },
+  "learnDescription": {
+    "defaultMessage": "Learn about Next.js in an interactive course with quizzes!",
+    "description": "A link to the NextJS quiz page"
+  },
+  "learnTitle": {
+    "defaultMessage": "Learn"
+  },
+  "sampleMessage": {
+    "defaultMessage": "There are {number} users"
+  }
+}
