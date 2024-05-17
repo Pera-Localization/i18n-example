@@ -12,6 +12,7 @@ const peraglotConfig = {
       path: "public/lang/zh.json",
     },
   },
+  publishBranch: "publish",
 };
 
 module.exports = peraglotConfig;
