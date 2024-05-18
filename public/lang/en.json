@@ -7,7 +7,7 @@
     "defaultMessage": "Docs"
   },
   "inputMessage": {
-    "defaultMessage": "Input a number"
+    "defaultMessage": "Input a number the message changed!"
   },
   "learnDescription": {
     "defaultMessage": "Learn about Next.js in an interactive course with quizzes!",
