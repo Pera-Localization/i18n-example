@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "@formatjs/cli": "^6.2.4",
+    "@peraglot-labs/developer-tools": "^0.0.2",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
-    "peraglot-tools": "^0.0.6",
     "typescript": "^5"
   }
 }
