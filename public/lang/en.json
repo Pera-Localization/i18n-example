@@ -4,7 +4,7 @@
     "description": "A link to the NextJS API Documentation"
   },
   "documentTitle": {
-    "defaultMessage": "Docs"
+    "defaultMessage": "Documents"
   },
   "inputMessage": {
     "defaultMessage": "Input a number"
