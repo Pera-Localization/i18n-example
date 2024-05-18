@@ -1,10 +1,10 @@
-/** @type {import('peraglot-tools').config.PeraglotConfig} */
+/** @type {import('peraglot-tools').config.PeraglotConfigInput} */
 const peraglotConfig = {
-  locales: {
-    en_US: {
-      isSource: true,
-      path: "public/lang/en.json",
-    },
+  source: {
+    locale: "en_US",
+    path: "public/lang/en.json",
+  },
+  targets: {
     ja_JP: {
       path: "public/lang/ja.json",
     },
@@ -12,7 +12,9 @@ const peraglotConfig = {
       path: "public/lang/zh.json",
     },
   },
-  publishBranch: "publish",
+  detectionBranch: "main",
+  translationBranch: "main",
+  publishBranch: "main",
 };
 
 module.exports = peraglotConfig;
