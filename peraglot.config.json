@@ -11,7 +11,7 @@
       "path": "public/lang/zh.json"
     }
   },
-  "detectionBranch": "main",
-  "translationBranch": "main",
-  "publishBranch": "main"
+  "detectionBranch": "production",
+  "translationBranch": "production",
+  "publishBranch": "production"
 }
