@@ -16,9 +16,18 @@ const peraglotConfig = {
       path: "public/lang/zh.json",
     },
   },
-  detectionBranch: "main",
-  translationBranch: "main",
-  publishBranch: "main",
+  triggers: {
+    detection: {
+      mergeBranch: "development",
+    },
+    translation: {
+      mergeBranch: "development",
+    },
+    publish: {
+      mergeBranch: "development",
+      baseBranch: "development",
+    },
+  },
 };
 
 module.exports = peraglotConfig;
