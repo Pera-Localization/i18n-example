@@ -13,14 +13,14 @@
   },
   "triggers": {
     "detection": {
-      "mergeBranch": "development"
+      "mergeBranch": "main"
     },
     "translation": {
-      "mergeBranch": "development"
+      "mergeBranch": "main"
     },
     "publish": {
-      "mergeBranch": "development",
-      "baseBranch": "development"
+      "mergeBranch": "main",
+      "baseBranch": "main"
     }
   }
 }
