@@ -14,7 +14,7 @@
     "description": "A link to the NextJS quiz page"
   },
   "learnTitle": {
-    "defaultMessage": "Learn"
+    "defaultMessage": "Learn something new"
   },
   "sampleMessage": {
     "defaultMessage": "There are {number} users"
